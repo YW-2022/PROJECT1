@@ -2,7 +2,7 @@
 
 WAFFLES, which stands for "Warwick’s Amazing Fast Food Logistic Engagement Service". WAFFLES is a web application for hosting restaurant information, customer reviews and customer favourites.
 
-# HOW TO RUN
+# GET STARTED
 
 ### clone this repo to your local
 
@@ -12,7 +12,7 @@ WAFFLES, which stands for "Warwick’s Amazing Fast Food Logistic Engagement Ser
 
 `cd WAFFLES` 
 
-### run
+### how to run
 
 Use `build.sh` for **Linux/macOS** and use `run.bat` if you are on **Windows**.
 
