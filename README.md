@@ -2,8 +2,6 @@
 
 WAFFLES, which stands for "Warwick’s Amazing Fast Food Logistic Engagement Service". WAFFLES is a web application for hosting restaurant information, customer reviews and customer favourites.
 
-![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0bbiltizhj21h80eujuq.jpg)
-
 # GET STARTED
 
 ### clone this repo to your local
@@ -57,3 +55,5 @@ In **Windows** PowerShell, the commands are respectively:
 Finally, if you wish to run the initial bare-bones website, which does not use your code:
 
 `java -jar waffles.jar`
+
+![](https://tva1.sinaimg.cn/large/e6c9d24egy1h0bbiltizhj21h80eujuq.jpg)
