@@ -4,11 +4,17 @@ WAFFLES, which stands for "Warwick’s Amazing Fast Food Logistic Engagement Ser
 
 # HOW TO RUN
 
-`git clone https://github.com/YW-2022/PROJECT1.git` to clone this repo to your local.
+### Clone this repo to your local
 
-`cd WAFFLES` cd to this repo.
+`git clone https://github.com/YW-2022/PROJECT1.git` 
 
-We have given you scripts to help compile and run the coursework. Use `build.sh` for **Linux/macOS** and use `run.bat` if you are on **Windows**.
+### CD to this repo
+
+`cd WAFFLES` 
+
+### Run
+
+Use `build.sh` for **Linux/macOS** and use `run.bat` if you are on **Windows**.
 
 We named the scripts different to make it easier to autocomplete in the **Linux/macOS** terminal,so when you want to run the script type `./b` and then press tab, it will expand it to `./build.sh`.
 
